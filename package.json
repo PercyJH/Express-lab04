@@ -4,10 +4,10 @@
   "description": "Demo express",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jaime Farfan",
+  "author": "Percy Herrera",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
